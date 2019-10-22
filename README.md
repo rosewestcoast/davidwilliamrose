@@ -1,2 +1,2 @@
-# davidwilliamrose
-my first GitHub
+# David Rose
+My first GitHub repository
